@@ -5,4 +5,4 @@
 > Мой профиль на [__GitHub__](https://github.com/KhanKhanov)  
 > Моя почта __buter_98@mail.ru__
 >
-> <img src="C:\Users\Billionaire\Desktop\git-2-homeworks-pages\image\photo.jpg" alt="Моё фото">
+> ![](https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666325818_6-mykaleidoscope-ru-p-dobraya-sova-instagram-6.jpg)
